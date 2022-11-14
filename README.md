@@ -1,15 +1,6 @@
 # FYP-COMP30910-MSCP #
 
-## Final Year Project (FYP) Title: *'Finding the Minimum Number of Sudoku Clues Through Information Theory'* ##
-Completed my final year project under the supervision of Félix Balado Pumariño, over the course of two modules totalling 15 credits due to University College Dublin’s new FYP structure: Final Year Project Foundations (COMP30900) at 5 credits and Final Year Project Design and Implementation (COMP30910) at 10 credits. 
-
-### Final Year Project Foundations (COMP30900) ###
-* __Wrote foundations report (28 pages)__ under the following headings; Abstract, Introduction, Groundwork, Data Considerations, Outline of Approach, Summary and Conclusions, Acknowledgements and Bibliography
-
-* Gave a 10-minute presentation on my final year project to my two assigned moderators; Damian Dalton and Shen Wang. 
-
-### Final Year Project Design and Implementation (COMP30910) ###
-* __Wrote final report (39 pages)__ under the following headings; List of Figures, List of Tables, Glossary, Abstract, Introduction, Project Specification, Groundwork, Data & Context, Core Contribution, Evaluation, Summary and Conclusions, Acknowledgements, Appendices and Bibliography
+*'Finding the Minimum Number of Sudoku Clues Through Information Theory'* ##
 
 ## Abstract ##
 
